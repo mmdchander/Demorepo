@@ -2,6 +2,7 @@
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
+# Build [![Build Status](https://dev.azure.com/mmdchander/SecurityModelTesting/_apis/build/status/mmdchander.Demorepo?branchName=master)](https://dev.azure.com/mmdchander/SecurityModelTesting/_build/latest?definitionId=2&branchName=master)
 
 trigger:
 - master
